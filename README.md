@@ -1,7 +1,7 @@
 # Car Rental Software
 
 ## Overview 
-This is a car rental application that was made as part of the CS253 course offerening in the 2023-24-II Semester. The entire application has been coded in *C++*. For the database management *C++ file handling* has been used. The interaction is to be done through the Command line Interface. The system has been tested to be working properly on  *UNIX* based systems. 
+This is a car rental application . The entire application has been coded in *C++*. For the database management *C++ file handling* has been used. The interaction is to be done through the Command line Interface. The system has been tested to be working properly on  *UNIX* based systems. 
 
 ## Structure of Databases
 
